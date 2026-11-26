@@ -221,3 +221,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/results/benchmark_total.csv
+
+.DS_Store
+.agents/
+.claude/
+
+/data/clf_num/
